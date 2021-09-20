@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating fun and useful things
+- 🌱 I’m currently working on improving my Python skills
+- 💞️ I’m looking to collaborate on anything you might think I'd be useful for
 - 📫 How to reach me: jeremy.balestrieri@gmail.com
 
 <!---
